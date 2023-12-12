@@ -1,16 +1,15 @@
-### Hi there 👋
+### Olá! Eu sou Léo =) 👋
 
-<!--
-**leoaderaldo/leoaderaldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Algumas informações sobre meu lado profissional:
 
-Here are some ideas to get you started:
+⚡ Experiência nas áreas de Inteligência de Mercado, Marketing/CRM, Pricing e também com Planejamento e Controle de Produção.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤔 Forte experiência com análise de perfil de cliente, NPS, precificação, mensuração de campanhas promocionais.
+
+🌱 Desenvolvimento de dashboards e planilhas para automação em tomadas de decisões na área comercial.
+
+📫 Manipulação e tratamento de grandes bases de dados por meio de ferramentas de ETL e BI.
+
+😄 Ótimo storytelling e experiência com condução de reuniões de resultados.
+
+🔭 Conhecimentos em Microsoft Excel, Microsoft Power BI, Tableau, Alteryx Designer, Google Looker Studio, Google BigQuery (SQL) e Python.
