@@ -4,7 +4,7 @@ Algumas informações sobre meu lado profissional:
 
 ⚡ Experiência nas áreas de Inteligência de Mercado, Marketing/CRM, Pricing e também com Planejamento e Controle de Produção.
 
-🤔 Forte experiência com análise de perfil de cliente, NPS, precificação, mensuração de campanhas promocionais.
+🤔 Forte experiência com análise de perfil de cliente, NPS, precificação e mensuração de campanhas promocionais.
 
 🌱 Desenvolvimento de dashboards e planilhas para automação em tomadas de decisões na área comercial.
 
