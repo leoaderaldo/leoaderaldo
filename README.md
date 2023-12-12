@@ -12,4 +12,4 @@ Algumas informações sobre meu lado profissional:
 
 😄 Ótimo storytelling e experiência com condução de reuniões de resultados.
 
-🔭 Conhecimentos em Microsoft Excel, Microsoft Power BI, Tableau, Alteryx Designer, Google Looker Studio, Google BigQuery (SQL) e Python.
+🔭 Conhecimentos em Excel, Power BI, Tableau, Alteryx, Looker Studio, BigQuery (SQL) e Python.
