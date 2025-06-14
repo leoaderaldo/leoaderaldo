@@ -1,15 +1,17 @@
 ### Olá! Eu sou Léo =) 👋
 
-Algumas informações sobre meu lado profissional:
+🤓 Sobre mim:
 
-⚡ Experiência nas áreas de Inteligência de Mercado, Marketing/CRM, Pricing e também com Planejamento e Controle de Produção.
+🧠 Entusiasta da área de dados, com foco em análise de dados, tratamento, higienização de bases e construção de painéis para visualização de dados.
 
-🤔 Forte experiência com análise de perfil de cliente, NPS, precificação e mensuração de campanhas promocionais.
+🎓 Especialização em andamento em Ciência de Dados e Bacharel em Engenharia de Produção.
 
-🌱 Desenvolvimento de dashboards e planilhas para automação em tomadas de decisões na área comercial.
+🛠️ Ferramentas: Power BI e Excel (avançado), Tableau, Google Looker Studio, Google BigQuery, Google Colab, Alteryx Designer e Linguagem SQL.
 
-📫 Manipulação e tratamento de grandes bases de dados por meio de ferramentas de ETL e BI.
+💎 Conhecimentos: estudo de perfil de cliente, metodologia NPS, estratégias de precificação, pesquisa de mercado, cálculo de marketshare, cálculo de metas, mensuração de campanhas e ações promocionais para engajamento e fidelização de clientes.
 
-😄 Ótimo storytelling e experiência com condução de reuniões de resultados.
+♟️ Sólida atuação nas áreas de: Inteligência de Mercado e Operações, Pricing, CRM e Planejamento Estratégico.
 
-🔭 Conhecimentos em Excel, Power BI, Tableau, Alteryx, Looker Studio, BigQuery (SQL) e Python.
+🏆 Ótimo storytelling e larga experiência com condução de reuniões de resultados e alinhamento de informações.
+
+📚 Estar constantemente se atualizando, lendo e buscando conhecimento é algo que me move!
