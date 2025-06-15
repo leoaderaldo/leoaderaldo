@@ -16,22 +16,31 @@
 
 📚 Estar constantemente se atualizando, lendo e buscando conhecimento é algo que me move!
 
-<h2>👨‍💻 Linguagens e Ferramentas</h2>
+<h2>🛠️ Ferramentas e Tecnologias</h2>
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <!-- BI e Visualização -->
+  <img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
+
+  <!-- ETL / Data Wrangling -->
+  <img src="https://img.shields.io/badge/-Alteryx-0067C6?style=for-the-badge&logo=alteryx&logoColor=white" />
+
+  <!-- Banco de Dados -->
+  <img src="https://img.shields.io/badge/-BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+  <!-- Programação -->
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black" />
 </p>
 
 ---
 
-<h2>📊 Estatísticas</h2>
+<h2>📊 Estatísticas do GitHub</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" />
@@ -40,20 +49,8 @@
 
 ---
 
-<h2>🚀 Tecnologias que estou usando</h2>
+<h2>🚀 Resumo</h2>
 
-- 🐍 Python para análise e automação de dados  
-- 📊 Power BI e Excel avançado para visualização de dados  
-- 🔗 SQL para manipulação de grandes volumes de dados  
-- 🧪 Alteryx para ETL e construção de pipelines  
-- 📈 R para análises estatísticas pontuais  
-- 🧠 Explorando IA com OpenAI, machine learning e autoavaliações  
-- 📁 Git + GitHub para versionamento de código
-
----
-
-<h2>📚 Estou estudando</h2>
-
-- 📘 Estatística e Modelos Preditivos
-- 📘 Deep Learning e Machine Learning com Python
-- 📘 Engenharia de Dados com foco em pipelines e automações
+- 🎯 Profissional de dados com experiência em análise, visualização e automação de processos.
+- 🔎 Curioso por novas tecnologias e apaixonado por transformar dados em decisões inteligentes.
+- 📚 Estudando ciência de dados, modelagem estatística e engenharia de dados.
