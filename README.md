@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/-Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
   <img src="https://img.shields.io/badge/-Alteryx-0076AA?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL%20(DBeaver)-f5f5dc?style=for-the-badge&logo=database&logoColor=black" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 </p>
