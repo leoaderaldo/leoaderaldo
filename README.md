@@ -1,9 +1,9 @@
 <h2>🚀 Resumo</h2>
 
-- 🏆 Profissional de dados com experiência em análise, visualização e automação de processos.
-- 🛠️ Trabalho com ferramentas como Excel, Power BI, Tableau, Alteryx, Linguagem SQL.
-- 💎 Entusiasta de tecnologia, ciência de dados e otimização de rotinas.
-- 📚 Estudando estatística descritiva, Linguagens como Python, R e Julia.
+- 🏆 Profissional de dados com experiência em construção e tratamento de bases e análise/visualização de dados.
+- 🛠️ Utiliza ferramentas como Excel, Power BI, Tableau, Alteryx, Linguagem SQL.
+- 💎 Entusiasta do universo de dados, mas sempre focado na área de negócios.
+- 📚 Constantmente estudando estatística, ferramentas Google e linguagens Python e R.
 
 ---
 
